@@ -19,27 +19,27 @@ public class CustomList extends ArrayAdapter<City> {
     private ArrayList<City> cities;
     private Context context;
 
-    public CustomList(Context context, ArrayList<City> cities){
-        super(context,0, cities);
-        this.cities = cities;
-        this.context = context;
-    }
-
-
-    @NonNull
-    @Override
-    public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
-//        return super.getView(position, convertView, parent);
-        View view = convertView;
-
-        if(view == null){
-            view = LayoutInflater.from(context).inflate(R.layout.content, parent,false);
-        }
-
-        City city = cities.get(position);
-
-        TextView cityName = view.findViewById(R.id.city_text);
-        TextView provinceName = view.findViewById(R.id.province_text);
+//    public CustomList(Context context, ArrayList<City> cities){
+//        super(context,0, cities);
+//        this.cities = cities;
+//        this.context = context;
+//    }
+//
+//
+//    @NonNull
+//    @Override
+//    public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
+////        return super.getView(position, convertView, parent);
+//        View view = convertView;
+//
+//        if(view == null){
+//            view = LayoutInflater.from(context).inflate(R.layout.content, parent,false);
+//        }
+//
+//        City city = cities.get(position);
+//
+//        TextView cityName = view.findViewById(R.id.city_text);
+//        TextView provinceName = view.findViewById(R.id.province_text);
 
         cityName.setText(city.getCityName());
         provinceName.setText(city.getProvinceName());
