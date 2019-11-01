@@ -35,11 +35,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/City.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="18" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,16 +54,20 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="371">
-              <caret line="47" column="15" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="47" selection-end-column="15" />
+              <caret line="47" column="13" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="47" selection-end-column="13" />
+              <folding>
+                <element signature="e#1841#1842#0" expanded="true" />
+                <element signature="e#1877#1878#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CustomList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="416">
-              <caret line="41" column="36" selection-start-line="21" selection-start-column="14" selection-end-line="41" selection-end-column="36" />
+              <caret line="41" column="34" selection-start-line="21" selection-start-column="12" selection-end-line="41" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -71,9 +81,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/City.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CustomList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/City.java" />
       </list>
     </option>
   </component>
@@ -307,24 +317,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/City.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CustomList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="18" />
+        <state relative-caret-position="416">
+          <caret line="41" column="34" selection-start-line="21" selection-start-column="12" selection-end-line="41" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
-          <caret line="47" column="15" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="47" selection-end-column="15" />
+          <caret line="47" column="13" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="47" selection-end-column="13" />
+          <folding>
+            <element signature="e#1841#1842#0" expanded="true" />
+            <element signature="e#1877#1878#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CustomList.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/City.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="41" column="36" selection-start-line="21" selection-start-column="14" selection-end-line="41" selection-end-column="36" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
